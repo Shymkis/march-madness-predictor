@@ -1,7 +1,9 @@
 from bs4 import BeautifulSoup
 import pandas as pd
+from datetime import date
 
-for year in range(2002, 2026):
+current_year = date.today().year
+for year in range(2002, current_year + 1):
     with open(f"html_tables/{year}.txt", "r") as file:
         content = file.read()
     soup = BeautifulSoup(content, "html.parser")
