@@ -1,0 +1,63 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,Illinois,Drexel,78,49,Illinois
+2,1,Loyola Chicago,Georgia Tech,71,60,Loyola Chicago
+3,1,Oregon St.,Tennessee,70,56,Oregon St.
+4,1,Oklahoma St.,Liberty,69,60,Oklahoma St.
+5,1,Syracuse,San Diego St.,78,62,Syracuse
+6,1,West Virginia,Morehead St.,84,67,West Virginia
+7,1,Rutgers,Clemson,60,56,Rutgers
+8,1,Houston,Cleveland St.,87,56,Houston
+9,1,Gonzaga,Norfolk St.,98,55,Gonzaga
+10,1,Oklahoma,Missouri,72,68,Oklahoma
+11,1,Creighton,UC Santa Barbara,63,62,Creighton
+12,1,Ohio,Virginia,62,58,Ohio
+13,1,USC,Drake,72,56,USC
+14,1,Kansas,Eastern Washington,93,84,Kansas
+15,1,Iowa,Grand Canyon,86,74,Iowa
+16,1,Michigan,Texas Southern,82,66,Michigan
+17,1,LSU,St. Bonaventure,76,61,LSU
+18,1,Colorado,Georgetown,96,73,Colorado
+19,1,Florida St.,UNC Greensboro,64,54,Florida St.
+20,1,UCLA,BYU,73,62,UCLA
+21,1,Abilene Christian,Texas,53,52,Abilene Christian
+22,1,Maryland,Connecticut,63,54,Maryland
+23,1,Alabama,Iona,68,55,Alabama
+24,1,Baylor,Hartford,79,55,Baylor
+25,1,Wisconsin,North Carolina,85,62,Wisconsin
+26,1,Villanova,Winthrop,73,63,Villanova
+27,1,North Texas,Purdue,78,69,North Texas
+28,1,Texas Tech,Utah St.,65,53,Texas Tech
+29,1,Arkansas,Colgate,85,68,Arkansas
+30,1,Florida,Virginia Tech,75,70,Florida
+31,1,Oral Roberts,Ohio St.,75,72,Oral Roberts
+32,2,Loyola Chicago,Illinois,71,58,Loyola Chicago
+33,2,Oregon St.,Oklahoma St.,80,70,Oregon St.
+34,2,Syracuse,West Virginia,75,72,Syracuse
+35,2,Houston,Rutgers,63,60,Houston
+36,2,Gonzaga,Oklahoma,87,71,Gonzaga
+37,2,Creighton,Ohio,72,58,Creighton
+38,2,USC,Kansas,85,51,USC
+39,2,Oregon,Iowa,95,80,Oregon
+40,2,Michigan,LSU,86,78,Michigan
+41,2,Colorado,Florida St.,53,71,Florida St.
+42,2,UCLA,Abilene Christian,67,47,UCLA
+43,2,Alabama,Maryland,96,77,Alabama
+44,2,Baylor,Wisconsin,76,63,Baylor
+45,2,Villanova,North Texas,84,61,Villanova
+46,2,Arkansas,Texas Tech,68,66,Arkansas
+47,2,Oral Roberts,Florida,81,78,Oral Roberts
+48,3,Oregon St.,Loyola Chicago,65,58,Oregon St.
+49,3,Houston,Syracuse,62,46,Houston
+50,3,Gonzaga,Creighton,83,65,Gonzaga
+51,3,USC,Oregon,82,68,USC
+52,3,Michigan,Florida St.,76,58,Michigan
+53,3,UCLA,Alabama,88,78,UCLA
+54,3,Baylor,Villanova,62,51,Baylor
+55,3,Arkansas,Oral Roberts,72,70,Arkansas
+56,4,Houston,Oregon St.,67,61,Houston
+57,4,Gonzaga,USC,85,66,Gonzaga
+58,4,UCLA,Michigan,51,49,UCLA
+59,4,Baylor,Arkansas,81,72,Baylor
+60,5,Baylor,Houston,78,59,Baylor
+61,5,Gonzaga,UCLA,93,90,Gonzaga
+62,6,Baylor,Gonzaga,86,70,Baylor

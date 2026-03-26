@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,Wichita St.,Cal Poly,64,37,Wichita St.
+2,1,Michigan,Wofford,57,40,Michigan
+3,1,Mercer,Duke,78,71,Mercer
+4,1,Louisville,Manhattan,71,64,Louisville
+5,1,Saint Louis,N.C. State,83,80,Saint Louis
+6,1,Tennessee,Massachusetts,86,67,Tennessee
+7,1,Texas,Arizona St.,87,85,Texas
+8,1,Kentucky,Kansas St.,56,49,Kentucky
+9,1,Arizona,Weber St.,68,59,Arizona
+10,1,Wisconsin,American,75,35,Wisconsin
+11,1,Creighton,Louisiana Lafayette,76,66,Creighton
+12,1,San Diego St.,New Mexico St.,73,69,San Diego St.
+13,1,North Dakota St.,Oklahoma,80,75,North Dakota St.
+14,1,Baylor,Nebraska,74,60,Baylor
+15,1,Oregon,BYU,87,68,Oregon
+16,1,Gonzaga,Oklahoma St.,85,77,Gonzaga
+17,1,Virginia,Coastal Carolina,70,59,Virginia
+18,1,Villanova,Milwaukee,73,53,Villanova
+19,1,Iowa St.,North Carolina Central,93,75,Iowa St.
+20,1,Michigan St.,Delaware,93,78,Michigan St.
+21,1,Harvard,Cincinnati,61,57,Harvard
+22,1,North Carolina,Providence,79,77,North Carolina
+23,1,Connecticut,Saint Joseph's,89,81,Connecticut
+24,1,Memphis,George Washington,71,66,Memphis
+25,1,Florida,Albany,67,55,Florida
+26,1,Kansas,Eastern Kentucky,80,69,Kansas
+27,1,Syracuse,Western Michigan,77,53,Syracuse
+28,1,UCLA,Tulsa,76,59,UCLA
+29,1,Stephen F. Austin,VCU,77,75,Stephen F. Austin
+30,1,Dayton,Ohio St.,60,59,Dayton
+31,1,Stanford,New Mexico,58,53,Stanford
+32,1,Pittsburgh,Colorado,77,48,Pittsburgh
+33,2,Kentucky,Wichita St.,78,76,Kentucky
+34,2,Michigan,Texas,79,65,Michigan
+35,2,Tennessee,Mercer,83,63,Tennessee
+36,2,Louisville,Saint Louis,66,51,Louisville
+37,2,Arizona,Gonzaga,84,61,Arizona
+38,2,Wisconsin,Oregon,85,77,Wisconsin
+39,2,Baylor,Creighton,85,55,Baylor
+40,2,San Diego St.,North Dakota St.,63,44,San Diego St.
+41,2,Virginia,Memphis,78,60,Virginia
+42,2,Connecticut,Villanova,77,65,Connecticut
+43,2,Iowa St.,North Carolina,85,83,Iowa St.
+44,2,Michigan St.,Harvard,80,73,Michigan St.
+45,2,Florida,Pittsburgh,61,45,Florida
+46,2,Stanford,Kansas,60,57,Stanford
+47,2,Dayton,Syracuse,55,53,Dayton
+48,2,UCLA,Stephen F. Austin,77,65,UCLA
+49,3,Kentucky,Louisville,74,69,Kentucky
+50,3,Michigan,Tennessee,73,71,Michigan
+51,3,Arizona,San Diego St.,70,64,Arizona
+52,3,Wisconsin,Baylor,69,52,Wisconsin
+53,3,Michigan St.,Virginia,61,59,Michigan St.
+54,3,Connecticut,Iowa St.,81,76,Connecticut
+55,3,Florida,UCLA,79,68,Florida
+56,3,Dayton,Stanford,82,72,Dayton
+57,4,Kentucky,Michigan,75,72,Kentucky
+58,4,Wisconsin,Arizona,64,63,Wisconsin
+59,4,Connecticut,Michigan St.,60,54,Connecticut
+60,4,Florida,Dayton,62,52,Florida
+61,5,Connecticut,Florida,63,53,Connecticut
+62,5,Kentucky,Wisconsin,74,73,Kentucky
+63,6,Connecticut,Kentucky,60,54,Connecticut

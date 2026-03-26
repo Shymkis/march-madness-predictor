@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,Auburn,Alabama St.,83,63,Auburn
+2,1,Louisville,Creighton,75,89,Creighton
+3,1,Michigan,UC San Diego,68,65,Michigan
+4,1,Texas A&M,Yale,80,71,Texas A&M
+5,1,Mississippi,North Carolina,71,64,Mississippi
+6,1,Iowa St.,Lipscomb,82,55,Iowa St.
+7,1,Marquette,New Mexico,66,75,New Mexico
+8,1,Michigan St.,Bryant,87,62,Michigan St.
+9,1,Florida,Norfolk St.,95,69,Florida
+10,1,Connecticut,Oklahoma,67,59,Connecticut
+11,1,Memphis,Colorado St.,70,78,Colorado St.
+12,1,Maryland,Grand Canyon,81,49,Maryland
+13,1,Missouri,Drake,57,67,Drake
+14,1,Texas Tech,UNC Wilmington,82,72,Texas Tech
+15,1,Kansas,Arkansas,72,79,Arkansas
+16,1,St. John's,Omaha,83,53,St. John's
+17,1,Duke,Mount St. Mary's,93,49,Duke
+18,1,Mississippi St.,Baylor,72,75,Baylor
+19,1,Oregon,Liberty,81,52,Oregon
+20,1,Arizona,Akron,93,65,Arizona
+21,1,BYU,VCU,80,71,BYU
+22,1,Wisconsin,Montana,85,66,Wisconsin
+23,1,Saint Mary's,Vanderbilt,59,56,Saint Mary's
+24,1,Alabama,Robert Morris,90,81,Alabama
+25,1,Houston,SIUE,78,40,Houston
+26,1,Gonzaga,Georgia,89,68,Gonzaga
+27,1,Clemson,McNeese,67,69,McNeese
+28,1,Purdue,High Point,75,62,Purdue
+29,1,Illinois,Xavier,86,73,Illinois
+30,1,Kentucky,Troy,76,57,Kentucky
+31,1,UCLA,Utah St.,72,47,UCLA
+32,1,Tennessee,Wofford,77,62,Tennessee
+33,2,Auburn,Creighton,82,70,Auburn
+34,2,Michigan,Texas A&M,91,79,Michigan
+35,2,Mississippi,Iowa St.,91,78,Mississippi
+36,2,New Mexico,Michigan St.,63,71,Michigan St.
+37,2,Florida,Connecticut,77,75,Florida
+38,2,Colorado St.,Maryland,71,72,Maryland
+39,2,Drake,Texas Tech,64,77,Texas Tech
+40,2,Arkansas,St. John's,75,66,Arkansas
+41,2,Duke,Baylor,89,66,Duke
+42,2,Oregon,Arizona,83,87,Arizona
+43,2,BYU,Wisconsin,91,89,BYU
+44,2,Saint Mary's,Alabama,66,80,Alabama
+45,2,Houston,Gonzaga,81,76,Houston
+46,2,McNeese,Purdue,62,76,Purdue
+47,2,Illinois,Kentucky,75,84,Kentucky
+48,2,UCLA,Tennessee,58,67,Tennessee
+49,3,Auburn,Michigan,78,65,Auburn
+50,3,Mississippi,Michigan St.,70,73,Michigan St.
+51,3,Florida,Maryland,87,71,Florida
+52,3,Texas Tech,Arkansas,85,83,Texas Tech
+53,3,Duke,Arizona,100,93,Duke
+54,3,BYU,Alabama,88,113,Alabama
+55,3,Houston,Purdue,62,60,Houston
+56,3,Kentucky,Tennessee,65,78,Tennessee
+57,4,Auburn,Michigan St.,70,64,Auburn
+58,3,Florida,Texas Tech,84,79,Florida
+59,4,Duke,Alabama,85,65,Duke
+60,4,Houston,Tennessee,69,50,Houston
+61,5,Auburn,Florida,73,79,Florida
+62,5,Duke,Houston,67,70,Houston
+63,6,Florida,Houston,65,63,Florida

@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,North Carolina,Florida Gulf Coast,83,67,North Carolina
+2,1,Xavier,Weber St.,71,53,Xavier
+3,1,Stephen F. Austin,West Virginia,70,56,Stephen F. Austin
+4,1,Kentucky,Stony Brook,85,57,Kentucky
+5,1,Indiana,Chattanooga,99,74,Indiana
+6,1,Notre Dame,Michigan,70,63,Notre Dame
+7,1,Wisconsin,Pittsburgh,47,43,Wisconsin
+8,1,Providence,USC,70,69,Providence
+9,1,Oregon,Holy Cross,91,52,Oregon
+10,1,Oklahoma,Cal St. Bakersfield,82,68,Oklahoma
+11,1,Texas A&M,Green Bay,92,65,Texas A&M
+12,1,Duke,UNC Wilmington,93,85,Duke
+13,1,Yale,Baylor,79,75,Yale
+14,1,Northern Iowa,Texas,75,72,Northern Iowa
+15,1,VCU,Oregon St.,75,67,VCU
+16,1,Saint Joseph's,Cincinnati,78,76,Saint Joseph's
+17,1,Kansas,Austin Peay,105,79,Kansas
+18,1,Villanova,UNC Asheville,86,56,Villanova
+19,1,Miami FL,Buffalo,79,72,Miami FL
+20,1,Hawaii,California,77,66,Hawaii
+21,1,Maryland,South Dakota St.,79,74,Maryland
+22,1,Wichita St.,Arizona,65,55,Wichita St.
+23,1,Iowa,Temple,72,70,Iowa
+24,1,Connecticut,Colorado,74,67,Connecticut
+25,1,Virginia,Hampton,81,45,Virginia
+26,1,Middle Tennessee,Michigan St.,90,81,Middle Tennessee
+27,1,Utah,Fresno St.,80,69,Utah
+28,1,Iowa St.,Iona,94,81,Iowa St.
+29,1,Arkansas Little Rock,Purdue,85,83,Arkansas Little Rock
+30,1,Gonzaga,Seton Hall,68,52,Gonzaga
+31,1,Syracuse,Dayton,70,51,Syracuse
+32,1,Butler,Texas Tech,71,61,Butler
+33,2,North Carolina,Providence,85,66,North Carolina
+34,2,Wisconsin,Xavier,66,63,Wisconsin
+35,2,Indiana,Kentucky,73,67,Indiana
+36,2,Notre Dame,Stephen F. Austin,76,75,Notre Dame
+37,2,Oregon,Saint Joseph's,69,64,Oregon
+38,2,Oklahoma,VCU,85,81,Oklahoma
+39,2,Texas A&M,Northern Iowa,92,88,Texas A&M
+40,2,Duke,Yale,71,64,Duke
+41,2,Kansas,Connecticut,73,61,Kansas
+42,2,Villanova,Iowa,87,68,Villanova
+43,2,Miami FL,Wichita St.,65,57,Miami FL
+44,2,Maryland,Hawaii,73,60,Maryland
+45,2,Virginia,Butler,77,69,Virginia
+46,2,Gonzaga,Utah,82,59,Gonzaga
+47,2,Iowa St.,Arkansas Little Rock,78,61,Iowa St.
+48,2,Syracuse,Middle Tennessee,75,50,Syracuse
+49,3,North Carolina,Indiana,101,86,North Carolina
+50,3,Notre Dame,Wisconsin,61,56,Notre Dame
+51,3,Oregon,Duke,82,68,Oregon
+52,3,Oklahoma,Texas A&M,77,63,Oklahoma
+53,3,Kansas,Maryland,79,63,Kansas
+54,3,Villanova,Miami FL,92,69,Villanova
+55,3,Virginia,Iowa St.,84,71,Virginia
+56,3,Syracuse,Gonzaga,63,60,Syracuse
+57,4,North Carolina,Notre Dame,88,74,North Carolina
+58,4,Oklahoma,Oregon,80,68,Oklahoma
+59,4,Villanova,Kansas,64,59,Villanova
+60,4,Syracuse,Virginia,68,62,Syracuse
+61,5,North Carolina,Syracuse,83,66,North Carolina
+62,5,Villanova,Oklahoma,95,51,Villanova
+63,6,Villanova,North Carolina,77,74,Villanova

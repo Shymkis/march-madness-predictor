@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,Houston,Northern Kentucky,63,52,Houston
+2,1,Auburn,Iowa,83,75,Auburn
+3,1,Miami FL,Drake,63,56,Miami FL
+4,1,Indiana,Kent St.,71,60,Indiana
+5,1,Pittsburgh,Iowa St.,59,41,Pittsburgh
+6,1,Xavier,Kennesaw St.,72,67,Xavier
+7,1,Penn St.,Texas A&M,76,59,Penn St.
+8,1,Texas,Colgate,81,61,Texas
+9,1,Kansas,Howard,96,68,Kansas
+10,1,Arkansas,Illinois,73,63,Arkansas
+11,1,Saint Mary's,VCU,63,51,Saint Mary's
+12,1,Connecticut,Iona,87,63,Connecticut
+13,1,TCU,Arizona St.,72,70,TCU
+14,1,Gonzaga,Grand Canyon,82,70,Gonzaga
+15,1,Northwestern,Boise St.,75,67,Northwestern
+16,1,UCLA,UNC Asheville,86,53,UCLA
+17,1,Fairleigh Dickinson,Purdue,63,58,Fairleigh Dickinson
+18,1,Florida Atlantic,Memphis,66,65,Florida Atlantic
+19,1,Duke,Oral Roberts,74,51,Duke
+20,1,Tennessee,Louisiana,58,55,Tennessee
+21,1,Kentucky,Providence,61,53,Kentucky
+22,1,Kansas St.,Montana St.,77,65,Kansas St.
+23,1,Michigan St.,USC,72,62,Michigan St.
+24,1,Marquette,Vermont,78,61,Marquette
+25,1,Alabama,Texas A&M,96,75,Alabama
+26,1,Maryland,West Virginia,67,65,Maryland
+27,1,San Diego St.,Charleston,63,57,San Diego St.
+28,1,Furman,Virginia,68,67,Furman
+29,1,Creighton,N.C. State,72,63,Creighton
+30,1,Baylor,UC Santa Barbara,74,56,Baylor
+31,1,Missouri,Utah St.,76,65,Missouri
+32,1,Princeton,Arizona,59,55,Princeton
+33,2,Houston,Auburn,81,64,Houston
+34,2,Miami FL,Indiana,85,69,Miami FL
+35,2,Xavier,Pittsburgh,84,73,Xavier
+36,2,Texas,Penn St.,71,66,Texas
+37,2,Arkansas,Kansas,72,71,Arkansas
+38,2,Connecticut,Saint Mary's,70,55,Connecticut
+39,2,Gonzaga,TCU,84,81,Gonzaga
+40,2,UCLA,Northwestern,68,63,UCLA
+41,2,Florida Atlantic,Fairleigh Dickinson,78,70,Florida Atlantic
+42,2,Tennessee,Duke,65,52,Tennessee
+43,2,Kansas St.,Kentucky,75,69,Kansas St.
+44,2,Michigan St.,Marquette,69,60,Michigan St.
+45,2,Alabama,Maryland,73,51,Alabama
+46,2,San Diego St.,Furman,75,52,San Diego St.
+47,2,Creighton,Baylor,85,76,Creighton
+48,2,Princeton,Missouri,78,63,Princeton
+49,3,Miami FL,Houston,89,75,Miami FL
+50,3,Texas,Xavier,83,71,Texas
+51,3,Connecticut,Arkansas,88,65,Connecticut
+52,3,Gonzaga,UCLA,79,76,Gonzaga
+53,3,Florida Atlantic,Tennessee,62,55,Florida Atlantic
+54,3,Kansas St.,Michigan St.,98,93,Kansas St.
+55,3,San Diego St.,Alabama,71,64,San Diego St.
+56,3,Creighton,Princeton,86,75,Creighton
+57,4,Miami FL,Texas,88,81,Miami FL
+58,4,Connecticut,Gonzaga,82,54,Connecticut
+59,4,Florida Atlantic,Kansas St.,79,76,Florida Atlantic
+60,4,San Diego St.,Creighton,57,56,San Diego St.
+61,5,San Diego St.,Florida Atlantic,72,71,San Diego St.
+62,5,Connecticut,Miami FL,72,59,Connecticut
+63,6,Connecticut,San Diego St.,76,59,Connecticut

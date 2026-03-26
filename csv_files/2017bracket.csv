@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,Villanova,Mount St. Mary's,76,56,Villanova
+2,1,Duke,Troy,87,65,Duke
+3,1,Baylor,New Mexico St.,91,73,Baylor
+4,1,Florida,East Tennessee St.,80,65,Florida
+5,1,Virginia,UNC Wilmington,76,71,Virginia
+6,1,USC,SMU,66,65,USC
+7,1,South Carolina,Marquette,93,73,South Carolina
+8,1,Wisconsin,Virginia Tech,84,74,Wisconsin
+9,1,Gonzaga,South Dakota St.,66,46,Gonzaga
+10,1,Arizona,North Dakota,100,82,Arizona
+11,1,Florida St.,Florida Gulf Coast,86,80,Florida St.
+12,1,West Virginia,Bucknell,86,80,West Virginia
+13,1,Notre Dame,Princeton,60,58,Notre Dame
+14,1,Xavier,Maryland,76,65,Xavier
+15,1,Saint Mary's,VCU,85,77,Saint Mary's
+16,1,Northwestern,Vanderbilt,68,66,Northwestern
+17,1,North Carolina,Texas Southern,103,64,North Carolina
+18,1,Kentucky,Northern Kentucky,79,70,Kentucky
+19,1,UCLA,Kent St.,97,80,UCLA
+20,1,Butler,Winthrop,76,64,Butler
+21,1,Middle Tennessee,Minnesota,81,72,Middle Tennessee
+22,1,Cincinnati,Kansas St.,75,61,Cincinnati
+23,1,Wichita St.,Dayton,64,58,Wichita St.
+24,1,Arkansas,Seton Hall,77,71,Arkansas
+25,1,Kansas,UC Davis,100,62,Kansas
+26,1,Louisville,Jacksonville St.,78,63,Louisville
+27,1,Oregon,Iona,93,77,Oregon
+28,1,Purdue,Vermont,80,70,Purdue
+29,1,Iowa St.,Nevada,84,73,Iowa St.
+30,1,Rhode Island,Creighton,84,72,Rhode Island
+31,1,Michigan,Oklahoma St.,92,91,Michigan
+32,1,Michigan St.,Miami FL,78,58,Michigan St.
+33,2,Wisconsin,Villanova,65,62,Wisconsin
+34,2,South Carolina,Duke,88,81,South Carolina
+35,2,Baylor,USC,82,78,Baylor
+36,2,Florida,Virginia,65,39,Florida
+37,2,Gonzaga,Northwestern,79,73,Gonzaga
+38,2,Arizona,Saint Mary's,69,60,Arizona
+39,2,Xavier,Florida St.,91,66,Xavier
+40,2,West Virginia,Notre Dame,83,71,West Virginia
+41,2,North Carolina,Arkansas,72,65,North Carolina
+42,2,Kentucky,Wichita St.,65,62,Kentucky
+43,2,UCLA,Cincinnati,79,67,UCLA
+44,2,Butler,Middle Tennessee,74,65,Butler
+45,2,Kansas,Michigan St.,90,70,Kansas
+46,2,Michigan,Louisville,73,69,Michigan
+47,2,Oregon,Rhode Island,75,72,Oregon
+48,2,Purdue,Iowa St.,80,76,Purdue
+49,3,Florida,Wisconsin,84,83,Florida
+50,3,South Carolina,Baylor,70,50,South Carolina
+51,3,Gonzaga,West Virginia,61,58,Gonzaga
+52,3,Xavier,Arizona,73,71,Xavier
+53,3,North Carolina,Butler,92,80,North Carolina
+54,3,Kentucky,UCLA,86,75,Kentucky
+55,3,Kansas,Purdue,98,66,Kansas
+56,3,Oregon,Michigan,69,68,Oregon
+57,4,South Carolina,Florida,77,70,South Carolina
+58,4,Gonzaga,Xavier,83,59,Gonzaga
+59,4,North Carolina,Kentucky,75,73,North Carolina
+60,4,Oregon,Kansas,74,60,Oregon
+61,5,Gonzaga,South Carolina,77,73,Gonzaga
+62,5,North Carolina,Oregon,77,76,North Carolina
+63,6,North Carolina,Gonzaga,71,65,North Carolina

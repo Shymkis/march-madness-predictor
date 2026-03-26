@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,Connecticut,Stetson,91,52,Connecticut
+2,1,Northwestern,Florida Atlantic,77,65,Northwestern
+3,1,San Diego St.,UAB,69,65,San Diego St.
+4,1,Yale,Auburn,78,76,Yale
+5,1,Duquesne,BYU,71,67,Duquesne
+6,1,Illinois,Morehead St.,85,69,Illinois
+7,1,Washington St.,Drake,66,61,Washington St.
+8,1,Iowa St.,South Dakota St.,82,65,Iowa St.
+9,1,North Carolina,Wagner,90,62,North Carolina
+10,1,Michigan St.,Mississippi St.,69,51,Michigan St.
+11,1,Grand Canyon,Saint Mary's,75,66,Grand Canyon
+12,1,Alabama,Charleston,109,96,Alabama
+13,1,Clemson,New Mexico,77,56,Clemson
+14,1,Baylor,Colgate,92,67,Baylor
+15,1,Dayton,Nevada,63,60,Dayton
+16,1,Arizona,Long Beach St.,85,65,Arizona
+17,1,Houston,Longwood,86,46,Houston
+18,1,Texas A&M,Nebraska,98,83,Texas A&M
+19,1,James Madison,Wisconsin,72,61,James Madison
+20,1,Duke,Vermont,64,47,Duke
+21,1,N.C. State,Texas Tech,80,67,N.C. State
+22,1,Oakland,Kentucky,80,76,Oakland
+23,1,Colorado,Florida,102,100,Colorado
+24,1,Marquette,Western Kentucky,87,69,Marquette
+25,1,Purdue,Grambling St.,78,50,Purdue
+26,1,Utah St.,TCU,88,72,Utah St.
+27,1,Gonzaga,McNeese St.,86,65,Gonzaga
+28,1,Kansas,Samford,93,89,Kansas
+29,1,Oregon,South Carolina,87,73,Oregon
+30,1,Creighton,Akron,77,60,Creighton
+31,1,Texas,Colorado St.,56,44,Texas
+32,1,Tennessee,Saint Peter's,83,49,Tennessee
+33,2,Connecticut,Northwestern,75,58,Connecticut
+34,2,San Diego St.,Yale,85,57,San Diego St.
+35,2,Illinois,Duquesne,89,63,Illinois
+36,2,Iowa St.,Washington St.,67,56,Iowa St.
+37,2,North Carolina,Michigan St.,85,69,North Carolina
+38,2,Alabama,Grand Canyon,72,61,Alabama
+39,2,Clemson,Baylor,72,64,Clemson
+40,2,Arizona,Dayton,78,68,Arizona
+41,2,Houston,Texas A&M,100,95,Houston
+42,2,Duke,James Madison,93,55,Duke
+43,2,N.C. State,Oakland,79,73,N.C. State
+44,2,Marquette,Colorado,81,77,Marquette
+45,2,Purdue,Utah St.,106,67,Purdue
+46,2,Gonzaga,Kansas,89,68,Gonzaga
+47,2,Creighton,Oregon,86,73,Creighton
+48,2,Tennessee,Texas,62,58,Tennessee
+49,3,Connecticut,San Diego St.,82,52,Connecticut
+50,3,Illinois,Iowa St.,72,69,Illinois
+51,3,Alabama,North Carolina,89,87,Alabama
+52,3,Clemson,Arizona,77,72,Clemson
+53,3,Duke,Houston,54,51,Duke
+54,3,N.C. State,Marquette,67,58,N.C. State
+55,3,Purdue,Gonzaga,80,68,Purdue
+56,3,Tennessee,Creighton,82,75,Tennessee
+57,4,Connecticut,Illinois,77,52,Connecticut
+58,4,Alabama,Clemson,89,82,Alabama
+59,4,N.C. State,Duke,76,64,N.C. State
+60,4,Purdue,Tennessee,72,66,Purdue
+61,5,Connecticut,Alabama,86,72,Connecticut
+62,5,Purdue,N.C. State,63,50,Purdue
+63,6,Connecticut,Purdue,75,60,Connecticut

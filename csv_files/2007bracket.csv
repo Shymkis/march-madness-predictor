@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,North Carolina,Eastern Kentucky,86,65,North Carolina
+2,1,Michigan St.,Marquette,61,49,Michigan St.
+3,1,USC,Arkansas,77,60,USC
+4,1,Texas,New Mexico St.,79,67,Texas
+5,1,Vanderbilt,George Washington,77,44,Vanderbilt
+6,1,Washington St.,Oral Roberts,70,54,Washington St.
+7,1,Boston College,Texas Tech,84,75,Boston College
+8,1,Georgetown,Belmont,80,55,Georgetown
+9,1,Florida,Jackson St.,112,69,Florida
+10,1,Purdue,Arizona,72,63,Purdue
+11,1,Butler,Old Dominion,57,46,Butler
+12,1,Maryland,Davidson,82,70,Maryland
+13,1,Winthrop,Notre Dame,74,64,Winthrop
+14,1,Oregon,Miami OH,58,56,Oregon
+15,1,UNLV,Georgia Tech,67,63,UNLV
+16,1,Wisconsin,Texas A&M,76,63,Wisconsin
+17,1,Ohio St.,Central Connecticut,78,57,Ohio St.
+18,1,Xavier,BYU,79,77,Xavier
+19,1,Tennessee,Long Beach St.,121,86,Tennessee
+20,1,Virginia,Albany,84,57,Virginia
+21,1,Louisville,Stanford,78,58,Louisville
+22,1,Texas A&M,Penn,68,52,Texas A&M
+23,1,Nevada,Creighton,77,71,Nevada
+24,1,Memphis,North Texas,73,58,Memphis
+25,1,Kansas,Niagara,107,67,Kansas
+26,1,Kentucky,Villanova,67,58,Kentucky
+27,1,Virginia Tech,Illinois,54,52,Virginia Tech
+28,1,Southern Illinois,Holy Cross,61,51,Southern Illinois
+29,1,VCU,Duke,79,77,VCU
+30,1,Pittsburgh,Wright St.,79,58,Pittsburgh
+31,1,Indiana,Gonzaga,70,57,Indiana
+32,1,UCLA,Weber St.,70,42,UCLA
+33,2,North Carolina,Michigan St.,81,67,North Carolina
+34,2,USC,Texas,87,68,USC
+35,2,Vanderbilt,Washington St.,78,74,Vanderbilt
+36,2,Georgetown,Boston College,62,55,Georgetown
+37,2,Florida,Purdue,74,67,Florida
+38,2,Butler,Maryland,62,59,Butler
+39,2,Oregon,Winthrop,75,61,Oregon
+40,2,UNLV,Wisconsin,74,68,UNLV
+41,2,Ohio St.,Xavier,78,71,Ohio St.
+42,2,Tennessee,Virginia,77,74,Tennessee
+43,2,Texas A&M,Louisville,72,69,Texas A&M
+44,2,Memphis,Nevada,78,62,Memphis
+45,2,Kansas,Kentucky,88,76,Kansas
+46,2,Southern Illinois,Virginia Tech,63,48,Southern Illinois
+47,2,Pittsburgh,VCU,84,79,Pittsburgh
+48,2,UCLA,Indiana,54,49,UCLA
+49,3,North Carolina,USC,74,64,North Carolina
+50,3,Georgetown,Vanderbilt,66,65,Georgetown
+51,3,Florida,Butler,65,57,Florida
+52,3,Oregon,UNLV,76,72,Oregon
+53,3,Ohio St.,Tennessee,85,84,Ohio St.
+54,3,Memphis,Texas A&M,65,64,Memphis
+55,3,Kansas,Southern Illinois,61,58,Kansas
+56,3,UCLA,Pittsburgh,64,55,UCLA
+57,4,Georgetown,North Carolina,96,84,Georgetown
+58,4,Florida,Oregon,85,77,Florida
+59,4,Ohio St.,Memphis,92,76,Ohio St.
+60,4,UCLA,Kansas,68,55,UCLA
+61,5,Florida,UCLA,76,66,Florida
+62,5,Ohio St.,Georgetown,67,60,Ohio St.
+63,6,Florida,Ohio St.,84,75,Florida

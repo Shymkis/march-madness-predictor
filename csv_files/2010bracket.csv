@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,Kentucky,East Tennessee St.,100,71,Kentucky
+2,1,West Virginia,Morgan St.,77,50,West Virginia
+3,1,New Mexico,Montana,62,57,New Mexico
+4,1,Wisconsin,Wofford,53,49,Wisconsin
+5,1,Cornell,Temple,78,65,Cornell
+6,1,Washington,Marquette,80,78,Washington
+7,1,Missouri,Clemson,86,78,Missouri
+8,1,Wake Forest,Texas,81,80,Wake Forest
+9,1,Syracuse,Vermont,79,56,Syracuse
+10,1,Kansas St.,North Texas,82,62,Kansas St.
+11,1,Pittsburgh,Oakland,89,66,Pittsburgh
+12,1,Murray St.,Vanderbilt,66,65,Murray St.
+13,1,Butler,UTEP,77,59,Butler
+14,1,Xavier,Minnesota,65,54,Xavier
+15,1,BYU,Florida,99,92,BYU
+16,1,Gonzaga,Florida St.,67,60,Gonzaga
+17,1,Duke,Arkansas Pine Bluff,73,44,Duke
+18,1,Villanova,Robert Morris,73,70,Villanova
+19,1,Baylor,Sam Houston St.,68,59,Baylor
+20,1,Purdue,Siena,72,64,Purdue
+21,1,Texas A&M,Utah St.,69,53,Texas A&M
+22,1,Old Dominion,Notre Dame,51,50,Old Dominion
+23,1,Saint Mary's,Richmond,80,71,Saint Mary's
+24,1,California,Louisville,77,62,California
+25,1,Kansas,Lehigh,90,74,Kansas
+26,1,Ohio St.,UC Santa Barbara,68,51,Ohio St.
+27,1,Ohio,Georgetown,97,84,Ohio
+28,1,Maryland,Houston,89,77,Maryland
+29,1,Michigan St.,New Mexico St.,70,67,Michigan St.
+30,1,Tennessee,San Diego St.,62,59,Tennessee
+31,1,Georgia Tech,Oklahoma St.,64,59,Georgia Tech
+32,1,Northern Iowa,UNLV,69,66,Northern Iowa
+33,2,Kentucky,Wake Forest,90,60,Kentucky
+34,2,West Virginia,Missouri,68,59,West Virginia
+35,2,Washington,New Mexico,82,64,Washington
+36,2,Cornell,Wisconsin,87,69,Cornell
+37,2,Syracuse,Gonzaga,87,65,Syracuse
+38,2,Kansas St.,BYU,84,72,Kansas St.
+39,2,Xavier,Pittsburgh,71,68,Xavier
+40,2,Butler,Murray St.,54,52,Butler
+41,2,Duke,California,68,53,Duke
+42,2,Saint Mary's,Villanova,75,68,Saint Mary's
+43,2,Baylor,Old Dominion,76,68,Baylor
+44,2,Purdue,Texas A&M,63,61,Purdue
+45,2,Northern Iowa,Kansas,69,67,Northern Iowa
+46,2,Ohio St.,Georgia Tech,75,66,Ohio St.
+47,2,Tennessee,Ohio,83,68,Tennessee
+48,2,Michigan St.,Maryland,85,83,Michigan St.
+49,3,Kentucky,Cornell,62,45,Kentucky
+50,3,West Virginia,Washington,69,56,West Virginia
+51,3,Butler,Syracuse,63,59,Butler
+52,3,Kansas St.,Xavier,101,96,Kansas St.
+53,3,Duke,Purdue,70,57,Duke
+54,3,Baylor,Saint Mary's,72,49,Baylor
+55,3,Michigan St.,Northern Iowa,59,52,Michigan St.
+56,3,Tennessee,Ohio St.,76,73,Tennessee
+57,4,West Virginia,Kentucky,73,66,West Virginia
+58,4,Butler,Kansas St.,63,56,Butler
+59,4,Duke,Baylor,78,71,Duke
+60,4,Michigan St.,Tennessee,70,69,Michigan St.
+61,5,Duke,West Virginia,78,57,Duke
+62,5,Butler,Michigan St.,52,50,Butler
+63,6,Duke,Butler,61,59,Duke

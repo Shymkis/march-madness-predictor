@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,Ohio St.,UTSA,75,46,Ohio St.
+2,1,North Carolina,LIU Brooklyn,102,87,North Carolina
+3,1,Syracuse,Indiana St.,77,60,Syracuse
+4,1,Kentucky,Princeton,59,57,Kentucky
+5,1,West Virginia,Clemson,84,76,West Virginia
+6,1,Marquette,Xavier,66,55,Marquette
+7,1,Washington,Georgia,68,65,Washington
+8,1,George Mason,Villanova,61,57,George Mason
+9,1,Duke,Hampton,87,45,Duke
+10,1,San Diego St.,Northern Colorado,68,50,San Diego St.
+11,1,Connecticut,Bucknell,81,52,Connecticut
+12,1,Texas,Oakland,85,81,Texas
+13,1,Arizona,Memphis,77,75,Arizona
+14,1,Cincinnati,Missouri,78,63,Cincinnati
+15,1,Temple,Penn St.,66,64,Temple
+16,1,Michigan,Tennessee,75,45,Michigan
+17,1,Kansas,Boston University,72,53,Kansas
+18,1,Notre Dame,Akron,69,56,Notre Dame
+19,1,Purdue,Saint Peter's,65,43,Purdue
+20,1,Morehead St.,Louisville,62,61,Morehead St.
+21,1,Richmond,Vanderbilt,69,66,Richmond
+22,1,VCU,Georgetown,74,56,VCU
+23,1,Florida St.,Texas A&M,57,50,Florida St.
+24,1,Illinois,UNLV,73,62,Illinois
+25,1,Pittsburgh,UNC Asheville,74,51,Pittsburgh
+26,1,Florida,UC Santa Barbara,79,51,Florida
+27,1,BYU,Wofford,74,66,BYU
+28,1,Wisconsin,Belmont,72,58,Wisconsin
+29,1,Kansas St.,Utah St.,73,68,Kansas St.
+30,1,Gonzaga,St. John's,86,71,Gonzaga
+31,1,UCLA,Michigan St.,78,76,UCLA
+32,1,Butler,Old Dominion,60,58,Butler
+33,2,Ohio St.,George Mason,98,66,Ohio St.
+34,2,North Carolina,Washington,86,83,North Carolina
+35,2,Marquette,Syracuse,66,62,Marquette
+36,2,Kentucky,West Virginia,71,73,West Virginia
+37,2,Duke,Michigan,73,71,Duke
+38,2,San Diego St.,Temple,71,64,San Diego St.
+39,2,Connecticut,Cincinnati,69,58,Connecticut
+40,2,Arizona,Texas,70,69,Arizona
+41,2,Kansas,Illinois,73,59,Kansas
+42,2,Florida St.,Notre Dame,71,57,Florida St.
+43,2,VCU,Purdue,94,76,VCU
+44,2,Richmond,Morehead St.,65,48,Richmond
+45,2,Butler,Pittsburgh,71,70,Butler
+46,2,Florida,UCLA,73,65,Florida
+47,2,BYU,Gonzaga,89,67,BYU
+48,2,Wisconsin,Kansas St.,70,65,Wisconsin
+49,3,Kentucky,Ohio St.,62,60,Kentucky
+50,3,North Carolina,Marquette,81,63,North Carolina
+51,3,Arizona,Duke,93,77,Arizona
+52,3,Connecticut,San Diego St.,74,67,Connecticut
+53,3,Kansas,Richmond,77,57,Kansas
+54,3,VCU,Florida St.,72,71,VCU
+55,3,Butler,Wisconsin,61,54,Butler
+56,3,Florida,BYU,83,74,Florida
+57,4,Kentucky,North Carolina,76,69,Kentucky
+58,4,Connecticut,Arizona,65,63,Connecticut
+59,4,VCU,Kansas,71,61,VCU
+60,4,Butler,Florida,74,71,Butler
+61,5,Connecticut,Kentucky,56,55,Connecticut
+62,5,Butler,VCU,70,62,Butler
+63,6,Connecticut,Butler,53,41,Connecticut

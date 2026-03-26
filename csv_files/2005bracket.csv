@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,North Carolina,Oakland,96,68,North Carolina
+2,1,Iowa St.,Minnesota,64,53,Iowa St.
+3,1,Villanova,New Mexico,55,47,Villanova
+4,1,Florida,Ohio,67,62,Florida
+5,1,Wisconsin,Northern Iowa,57,52,Wisconsin
+6,1,Bucknell,Kansas,64,63,Bucknell
+7,1,N.C. State,Charlotte,75,63,N.C. State
+8,1,Connecticut,UCF,77,71,Connecticut
+9,1,Illinois,Fairleigh Dickinson,67,55,Illinois
+10,1,Nevada,Texas,61,57,Nevada
+11,1,Milwaukee,Alabama,83,73,Milwaukee
+12,1,Boston College,Penn,85,65,Boston College
+13,1,UAB,LSU,82,68,UAB
+14,1,Arizona,Utah St.,66,53,Arizona
+15,1,Southern Illinois,Saint Mary's,65,56,Southern Illinois
+16,1,Oklahoma St.,Southeastern Louisiana,63,50,Oklahoma St.
+17,1,Duke,Delaware St.,57,46,Duke
+18,1,Mississippi St.,Stanford,93,70,Mississippi St.
+19,1,Michigan St.,Old Dominion,89,81,Michigan St.
+20,1,Vermont,Syracuse,60,57,Vermont
+21,1,Utah,UTEP,60,54,Utah
+22,1,Oklahoma,Niagara,84,67,Oklahoma
+23,1,Cincinnati,Iowa,76,64,Cincinnati
+24,1,Kentucky,Eastern Kentucky,72,64,Kentucky
+25,1,Washington,Montana,88,77,Washington
+26,1,Pacific,Pittsburgh,79,71,Pacific
+27,1,Georgia Tech,George Washington,80,68,Georgia Tech
+28,1,Louisville,Louisiana Lafayette,68,62,Louisville
+29,1,Texas Tech,UCLA,78,66,Texas Tech
+30,1,Gonzaga,Winthrop,74,64,Gonzaga
+31,1,West Virginia,Creighton,63,61,West Virginia
+32,1,Wake Forest,Chattanooga,70,54,Wake Forest
+33,2,North Carolina,Iowa St.,92,65,North Carolina
+34,2,Villanova,Florida,76,65,Villanova
+35,2,Wisconsin,Bucknell,71,62,Wisconsin
+36,2,N.C. State,Connecticut,65,62,N.C. State
+37,2,Illinois,Nevada,71,59,Illinois
+38,2,Milwaukee,Boston College,83,75,Milwaukee
+39,2,Arizona,UAB,85,63,Arizona
+40,2,Oklahoma St.,Southern Illinois,85,77,Oklahoma St.
+41,2,Duke,Mississippi St.,63,55,Duke
+42,2,Michigan St.,Vermont,72,61,Michigan St.
+43,2,Utah,Oklahoma,67,58,Utah
+44,2,Kentucky,Cincinnati,69,60,Kentucky
+45,2,Washington,Pacific,97,79,Washington
+46,2,Louisville,Georgia Tech,76,54,Louisville
+47,2,Texas Tech,Gonzaga,71,69,Texas Tech
+48,2,West Virginia,Wake Forest,111,105,West Virginia
+49,3,North Carolina,Villanova,67,66,North Carolina
+50,3,Wisconsin,N.C. State,65,56,Wisconsin
+51,3,Illinois,Milwaukee,77,63,Illinois
+52,3,Arizona,Oklahoma St.,79,78,Arizona
+53,3,Michigan St.,Duke,78,68,Michigan St.
+54,3,Kentucky,Utah,62,52,Kentucky
+55,3,Louisville,Washington,93,79,Louisville
+56,3,West Virginia,Texas Tech,65,60,West Virginia
+57,4,North Carolina,Wisconsin,88,82,North Carolina
+58,4,Illinois,Arizona,90,89,Illinois
+59,4,Michigan St.,Kentucky,94,88,Michigan St.
+60,4,Louisville,West Virginia,93,85,Louisville
+61,5,Illinois,Louisville,72,57,Illinois
+62,5,North Carolina,Michigan St.,87,71,North Carolina
+63,6,North Carolina,Illinois,75,70,North Carolina

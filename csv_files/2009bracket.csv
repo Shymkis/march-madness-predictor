@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,Pittsburgh,East Tennessee St.,72,62,Pittsburgh
+2,1,Oklahoma St.,Tennessee,77,75,Oklahoma St.
+3,1,Wisconsin,Florida St.,61,59,Wisconsin
+4,1,Xavier,Portland St.,77,59,Xavier
+5,1,UCLA,VCU,65,64,UCLA
+6,1,Villanova,American,80,67,Villanova
+7,1,Texas,Minnesota,76,62,Texas
+8,1,Duke,Binghamton,86,62,Duke
+9,1,Louisville,Morehead St.,74,54,Louisville
+10,1,Siena,Ohio St.,74,72,Siena
+11,1,Arizona,Utah,84,71,Arizona
+12,1,Cleveland St.,Wake Forest,84,69,Cleveland St.
+13,1,Dayton,West Virginia,68,60,Dayton
+14,1,Kansas,North Dakota St.,84,74,Kansas
+15,1,USC,Boston College,72,55,USC
+16,1,Michigan St.,Robert Morris,77,62,Michigan St.
+17,1,North Carolina,Radford,101,58,North Carolina
+18,1,LSU,Butler,75,71,LSU
+19,1,Western Kentucky,Illinois,76,72,Western Kentucky
+20,1,Gonzaga,Akron,77,64,Gonzaga
+21,1,Arizona St.,Temple,66,57,Arizona St.
+22,1,Syracuse,Stephen F. Austin,59,44,Syracuse
+23,1,Michigan,Clemson,62,59,Michigan
+24,1,Oklahoma,Morgan St.,82,54,Oklahoma
+25,1,Connecticut,Chattanooga,103,47,Connecticut
+26,1,Texas A&M,BYU,79,66,Texas A&M
+27,1,Purdue,Northern Iowa,61,56,Purdue
+28,1,Washington,Mississippi St.,71,58,Washington
+29,1,Marquette,Utah St.,58,57,Marquette
+30,1,Missouri,Cornell,78,59,Missouri
+31,1,Maryland,California,84,71,Maryland
+32,1,Memphis,Cal St. Northridge,81,70,Memphis
+33,2,Pittsburgh,Oklahoma St.,84,76,Pittsburgh
+34,2,Xavier,Wisconsin,60,49,Xavier
+35,2,Villanova,UCLA,89,69,Villanova
+36,2,Duke,Texas,74,69,Duke
+37,2,Louisville,Siena,79,72,Louisville
+38,2,Arizona,Cleveland St.,71,57,Arizona
+39,2,Kansas,Dayton,60,43,Kansas
+40,2,Michigan St.,USC,74,69,Michigan St.
+41,2,North Carolina,LSU,84,70,North Carolina
+42,2,Gonzaga,Western Kentucky,83,81,Gonzaga
+43,2,Syracuse,Arizona St.,78,67,Syracuse
+44,2,Oklahoma,Michigan,73,63,Oklahoma
+45,2,Connecticut,Texas A&M,92,66,Connecticut
+46,2,Purdue,Washington,76,74,Purdue
+47,2,Missouri,Marquette,83,79,Missouri
+48,2,Memphis,Maryland,89,70,Memphis
+49,3,Pittsburgh,Xavier,60,55,Pittsburgh
+50,3,Villanova,Duke,77,54,Villanova
+51,3,Louisville,Arizona,103,64,Louisville
+52,3,Michigan St.,Kansas,67,62,Michigan St.
+53,3,North Carolina,Gonzaga,98,77,North Carolina
+54,3,Oklahoma,Syracuse,84,71,Oklahoma
+55,3,Connecticut,Purdue,72,60,Connecticut
+56,3,Missouri,Memphis,102,91,Missouri
+57,4,Villanova,Pittsburgh,78,76,Villanova
+58,4,Michigan St.,Louisville,64,52,Michigan St.
+59,4,North Carolina,Oklahoma,72,60,North Carolina
+60,4,Connecticut,Missouri,82,75,Connecticut
+61,5,Michigan St.,Connecticut,82,73,Michigan St.
+62,5,North Carolina,Villanova,83,69,North Carolina
+63,6,North Carolina,Michigan St.,89,72,North Carolina

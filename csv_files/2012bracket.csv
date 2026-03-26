@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,Syracuse,UNC Asheville,72,65,Syracuse
+2,1,Ohio St.,Loyola MD,78,59,Ohio St.
+3,1,Florida St.,St. Bonaventure,66,63,Florida St.
+4,1,Wisconsin,Montana,73,49,Wisconsin
+5,1,Vanderbilt,Harvard,79,70,Vanderbilt
+6,1,Cincinnati,Texas,65,59,Cincinnati
+7,1,Gonzaga,West Virginia,77,54,Gonzaga
+8,1,Kansas St.,Southern Miss,70,64,Kansas St.
+9,1,Michigan St.,LIU Brooklyn,89,67,Michigan St.
+10,1,Norfolk St.,Missouri,86,84,Norfolk St.
+11,1,Marquette,BYU,88,68,Marquette
+12,1,Louisville,Davidson,69,62,Louisville
+13,1,New Mexico,Long Beach St.,75,68,New Mexico
+14,1,Murray St.,Colorado St.,58,41,Murray St.
+15,1,Florida,Virginia,71,45,Florida
+16,1,Saint Louis,Memphis,61,54,Saint Louis
+17,1,Kentucky,Western Kentucky,81,66,Kentucky
+18,1,Lehigh,Duke,75,70,Lehigh
+19,1,Baylor,South Dakota St.,68,60,Baylor
+20,1,Indiana,New Mexico St.,79,66,Indiana
+21,1,VCU,Wichita St.,62,59,VCU
+22,1,Colorado,UNLV,68,64,Colorado
+23,1,Xavier,Notre Dame,67,63,Xavier
+24,1,Iowa St.,Connecticut,77,64,Iowa St.
+25,1,North Carolina,Vermont,77,58,North Carolina
+26,1,Kansas,Detroit,65,50,Kansas
+27,1,Georgetown,Belmont,74,59,Georgetown
+28,1,Ohio,Michigan,65,60,Ohio
+29,1,South Florida,Temple,58,44,South Florida
+30,1,N.C. State,San Diego St.,79,65,N.C. State
+31,1,Purdue,Saint Mary's,72,69,Purdue
+32,1,Creighton,Alabama,58,57,Creighton
+33,2,Syracuse,Kansas St.,75,59,Syracuse
+34,2,Ohio St.,Gonzaga,73,66,Ohio St.
+35,2,Cincinnati,Florida St.,62,56,Cincinnati
+36,2,Wisconsin,Vanderbilt,60,57,Wisconsin
+37,2,Michigan St.,Saint Louis,65,61,Michigan St.
+38,2,Florida,Norfolk St.,84,50,Florida
+39,2,Marquette,Murray St.,62,53,Marquette
+40,2,Louisville,New Mexico,59,56,Louisville
+41,2,Kentucky,Iowa St.,87,71,Kentucky
+42,2,Xavier,Lehigh,70,58,Xavier
+43,2,Baylor,Colorado,80,63,Baylor
+44,2,Indiana,VCU,63,61,Indiana
+45,2,North Carolina,Creighton,87,73,North Carolina
+46,2,Kansas,Purdue,63,60,Kansas
+47,2,N.C. State,Georgetown,66,63,N.C. State
+48,2,Ohio,South Florida,62,56,Ohio
+49,3,Syracuse,Wisconsin,64,63,Syracuse
+50,3,Ohio St.,Cincinnati,81,66,Ohio St.
+51,3,Louisville,Michigan St.,57,44,Louisville
+52,3,Florida,Marquette,68,58,Florida
+53,3,Kentucky,Indiana,102,90,Kentucky
+54,3,Baylor,Xavier,75,70,Baylor
+55,3,North Carolina,Ohio,73,65,North Carolina
+56,3,Kansas,N.C. State,60,57,Kansas
+57,4,Ohio St.,Syracuse,77,70,Ohio St.
+58,4,Louisville,Florida,72,68,Louisville
+59,4,Kentucky,Baylor,82,70,Kentucky
+60,4,Kansas,North Carolina,80,67,Kansas
+61,5,Kentucky,Louisville,69,61,Kentucky
+62,5,Kansas,Ohio St.,64,62,Kansas
+63,6,Kentucky,Kansas,67,59,Kentucky

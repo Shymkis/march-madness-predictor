@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,Kansas,Texas Southern,83,56,Kansas
+2,1,Creighton,San Diego St.,72,69,Creighton
+3,1,Richmond,Iowa,67,63,Richmond
+4,1,Providence,South Dakota St.,66,57,Providence
+5,1,Iowa St.,LSU,59,54,Iowa St.
+6,1,Wisconsin,Colgate,67,60,Wisconsin
+7,1,Miami FL,USC,68,66,Miami FL
+8,1,Auburn,Jacksonville St.,80,61,Auburn
+9,1,Gonzaga,Georgia St.,93,72,Gonzaga
+10,1,Memphis,Boise St.,64,53,Memphis
+11,1,New Mexico St.,Connecticut,70,63,New Mexico St.
+12,1,Arkansas,Vermont,75,71,Arkansas
+13,1,Notre Dame,Alabama,78,64,Notre Dame
+14,1,Texas Tech,Montana St.,97,62,Texas Tech
+15,1,Michigan St.,Davidson,74,73,Michigan St.
+16,1,Duke,Cal St. Fullerton,78,61,Duke
+17,1,Baylor,Norfolk St.,85,49,Baylor
+18,1,North Carolina,Marquette,95,63,North Carolina
+19,1,Saint Mary's,Indiana,82,53,Saint Mary's
+20,1,UCLA,Akron,57,53,UCLA
+21,1,Texas,Virginia Tech,81,73,Texas
+22,1,Purdue,Yale,78,56,Purdue
+23,1,Murray St.,San Francisco,92,87,Murray St.
+24,1,Saint Peter's,Kentucky,85,79,Saint Peter's
+25,1,Arizona,Wright St.,87,70,Arizona
+26,1,TCU,Seton Hall,69,42,TCU
+27,1,Houston,UAB,82,68,Houston
+28,1,Illinois,Chattanooga,54,53,Illinois
+29,1,Michigan,Colorado St.,75,63,Michigan
+30,1,Tennessee,Longwood,88,56,Tennessee
+31,1,Ohio St.,Loyola Chicago,54,41,Ohio St.
+32,1,Villanova,Delaware,80,60,Villanova
+33,2,Kansas,Creighton,79,71,Kansas
+34,2,Providence,Richmond,79,51,Providence
+35,2,Iowa St.,Wisconsin,54,49,Iowa St.
+36,2,Miami FL,Auburn,79,61,Miami FL
+37,2,Gonzaga,Memphis,82,78,Gonzaga
+38,2,Arkansas,New Mexico St.,53,48,Arkansas
+39,2,Texas Tech,Notre Dame,59,53,Texas Tech
+40,2,Duke,Michigan St.,85,76,Duke
+41,2,North Carolina,Baylor,93,86,North Carolina
+42,2,UCLA,Saint Mary's,72,56,UCLA
+43,2,Purdue,Texas,81,71,Purdue
+44,2,Saint Peter's,Murray St.,70,60,Saint Peter's
+45,2,Arizona,TCU,85,80,Arizona
+46,2,Houston,Illinois,68,53,Houston
+47,2,Michigan,Tennessee,76,68,Michigan
+48,2,Villanova,Ohio St.,71,61,Villanova
+49,3,Kansas,Providence,66,61,Kansas
+50,3,Miami FL,Iowa St.,70,56,Miami FL
+51,3,Arkansas,Gonzaga,74,68,Arkansas
+52,3,Duke,Texas Tech,78,73,Duke
+53,3,North Carolina,UCLA,73,66,North Carolina
+54,3,Saint Peter's,Purdue,67,64,Saint Peter's
+55,3,Houston,Arizona,72,60,Houston
+56,3,Villanova,Michigan,63,55,Villanova
+57,4,Kansas,Miami FL,76,50,Kansas
+58,4,Duke,Arkansas,78,69,Duke
+59,4,North Carolina,Saint Peter's,69,49,North Carolina
+60,4,Villanova,Houston,50,44,Villanova
+61,5,North Carolina,Duke,81,77,North Carolina
+62,5,Kansas,Villanova,81,65,Kansas
+63,6,Kansas,North Carolina,72,69,Kansas

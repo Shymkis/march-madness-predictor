@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,North Carolina,Mount St. Mary's,113,74,North Carolina
+2,1,Arkansas,Indiana,86,72,Arkansas
+3,1,Notre Dame,George Mason,68,50,Notre Dame
+4,1,Washington St.,Winthrop,71,40,Washington St.
+5,1,Oklahoma,Saint Joseph's,72,64,Oklahoma
+6,1,Louisville,Boise St.,79,61,Louisville
+7,1,Butler,South Alabama,81,61,Butler
+8,1,Tennessee,American,72,57,Tennessee
+9,1,Kansas,Portland St.,85,61,Kansas
+10,1,UNLV,Kent St.,71,58,UNLV
+11,1,Villanova,Clemson,75,69,Villanova
+12,1,Siena,Vanderbilt,83,62,Siena
+13,1,Kansas St.,USC,80,67,Kansas St.
+14,1,Wisconsin,Cal St. Fullerton,71,56,Wisconsin
+15,1,Davidson,Gonzaga,82,76,Davidson
+16,1,Georgetown,UMBC,66,47,Georgetown
+17,1,Memphis,UT Arlington,87,63,Memphis
+18,1,Mississippi St.,Oregon,76,69,Mississippi St.
+19,1,Michigan St.,Temple,72,61,Michigan St.
+20,1,Pittsburgh,Oral Roberts,82,63,Pittsburgh
+21,1,Marquette,Kentucky,74,66,Marquette
+22,1,Stanford,Cornell,77,53,Stanford
+23,1,Miami FL,Saint Mary's,78,64,Miami FL
+24,1,Texas,Austin Peay,74,54,Texas
+25,1,UCLA,Mississippi Valley St.,70,29,UCLA
+26,1,Texas A&M,BYU,67,62,Texas A&M
+27,1,Western Kentucky,Drake,101,99,Western Kentucky
+28,1,San Diego,Connecticut,70,69,San Diego
+29,1,Purdue,Baylor,90,79,Purdue
+30,1,Xavier,Georgia,73,61,Xavier
+31,1,West Virginia,Arizona,75,65,West Virginia
+32,1,Duke,Belmont,71,70,Duke
+33,2,North Carolina,Arkansas,108,77,North Carolina
+34,2,Washington St.,Notre Dame,61,41,Washington St.
+35,2,Louisville,Oklahoma,78,48,Louisville
+36,2,Tennessee,Butler,76,71,Tennessee
+37,2,Kansas,UNLV,75,56,Kansas
+38,2,Villanova,Siena,84,72,Villanova
+39,2,Wisconsin,Kansas St.,72,55,Wisconsin
+40,2,Davidson,Georgetown,74,70,Davidson
+41,2,Memphis,Mississippi St.,77,74,Memphis
+42,2,Michigan St.,Pittsburgh,65,54,Michigan St.
+43,2,Stanford,Marquette,82,81,Stanford
+44,2,Texas,Miami FL,75,72,Texas
+45,2,UCLA,Texas A&M,51,49,UCLA
+46,2,Western Kentucky,San Diego,72,63,Western Kentucky
+47,2,Xavier,Purdue,85,78,Xavier
+48,2,West Virginia,Duke,73,67,West Virginia
+49,3,North Carolina,Washington St.,68,47,North Carolina
+50,3,Louisville,Tennessee,79,60,Louisville
+51,3,Kansas,Villanova,72,57,Kansas
+52,3,Davidson,Wisconsin,73,56,Davidson
+53,3,Memphis,Michigan St.,92,74,Memphis
+54,3,Texas,Stanford,82,62,Texas
+55,3,UCLA,Western Kentucky,88,78,UCLA
+56,3,Xavier,West Virginia,79,75,Xavier
+57,4,North Carolina,Louisville,83,73,North Carolina
+58,4,Kansas,Davidson,59,57,Kansas
+59,4,Memphis,Texas,85,67,Memphis
+60,4,UCLA,Xavier,76,57,UCLA
+61,5,Kansas,North Carolina,84,66,Kansas
+62,5,Memphis,UCLA,78,63,Memphis
+63,6,Kansas,Memphis,75,68,Kansas

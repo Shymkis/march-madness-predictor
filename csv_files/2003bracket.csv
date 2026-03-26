@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,Oklahoma,South Carolina St.,71,54,Oklahoma
+2,1,California,N.C. State,76,74,California
+3,1,Butler,Mississippi St.,47,46,Butler
+4,1,Louisville,Austin Peay,86,64,Louisville
+5,1,Oklahoma St.,Penn,77,63,Oklahoma St.
+6,1,Syracuse,Manhattan,76,65,Syracuse
+7,1,Auburn,Saint Joseph's,65,64,Auburn
+8,1,Wake Forest,East Tennessee St.,76,73,Wake Forest
+9,1,Kentucky,IUPUI,95,64,Kentucky
+10,1,Utah,Oregon,60,58,Utah
+11,1,Wisconsin,Weber St.,81,74,Wisconsin
+12,1,Tulsa,Dayton,84,71,Tulsa
+13,1,Missouri,Southern Illinois,72,71,Missouri
+14,1,Marquette,Holy Cross,72,68,Marquette
+15,1,Indiana,Alabama,67,62,Indiana
+16,1,Pittsburgh,Wagner,87,61,Pittsburgh
+17,1,Texas,UNC Asheville,82,61,Texas
+18,1,Purdue,LSU,80,56,Purdue
+19,1,Connecticut,BYU,58,53,Connecticut
+20,1,Stanford,San Diego,77,69,Stanford
+21,1,Maryland,UNC Wilmington,75,73,Maryland
+22,1,Xavier,Troy St.,71,59,Xavier
+23,1,Michigan St.,Colorado,79,64,Michigan St.
+24,1,Florida,Sam Houston St.,85,55,Florida
+25,1,Arizona,Vermont,80,51,Arizona
+26,1,Gonzaga,Cincinnati,74,69,Gonzaga
+27,1,Notre Dame,Milwaukee,70,69,Notre Dame
+28,1,Illinois,Western Kentucky,65,60,Illinois
+29,1,Creighton,Central Michigan,73,79,Central Michigan
+30,1,Duke,Colorado St.,67,57,Duke
+31,1,Arizona St.,Memphis,84,71,Arizona St.
+32,1,Kansas,Utah St.,64,61,Kansas
+33,2,Oklahoma,California,74,65,Oklahoma
+34,2,Butler,Louisville,79,71,Butler
+35,2,Syracuse,Oklahoma St.,68,56,Syracuse
+36,2,Auburn,Wake Forest,68,62,Auburn
+37,2,Kentucky,Utah,74,54,Kentucky
+38,2,Wisconsin,Tulsa,61,60,Wisconsin
+39,2,Marquette,Missouri,101,92,Marquette
+40,2,Pittsburgh,Indiana,74,52,Pittsburgh
+41,2,Texas,Purdue,77,67,Texas
+42,2,Connecticut,Stanford,85,74,Connecticut
+43,2,Maryland,Xavier,77,64,Maryland
+44,2,Michigan St.,Florida,68,46,Michigan St.
+45,2,Arizona,Gonzaga,96,95,Arizona
+46,2,Notre Dame,Illinois,68,60,Notre Dame
+47,2,Duke,Central Michigan,86,60,Duke
+48,2,Kansas,Arizona St.,108,76,Kansas
+49,3,Oklahoma,Butler,65,54,Oklahoma
+50,3,Syracuse,Auburn,79,78,Syracuse
+51,3,Kentucky,Wisconsin,63,57,Kentucky
+52,3,Marquette,Pittsburgh,77,74,Marquette
+53,3,Texas,Connecticut,82,78,Texas
+54,3,Michigan St.,Maryland,60,58,Michigan St.
+55,3,Arizona,Notre Dame,88,71,Arizona
+56,3,Kansas,Duke,69,65,Kansas
+57,4,Syracuse,Oklahoma,63,47,Syracuse
+58,4,Marquette,Kentucky,83,69,Marquette
+59,4,Texas,Michigan St.,85,76,Texas
+60,4,Kansas,Arizona,78,75,Kansas
+61,5,Syracuse,Texas,95,84,Syracuse
+62,5,Kansas,Marquette,94,61,Kansas
+63,6,Syracuse,Kansas,81,78,Syracuse

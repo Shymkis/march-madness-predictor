@@ -1,0 +1,41 @@
+bracket_num,group,champion,final_four,elite_eight,deterministic
+1,A,Michigan,"Iowa, Michigan","St. John's, Iowa, Arkansas, Michigan",True
+2,A,Duke,"Duke, Michigan","Duke, Iowa, Arizona, Michigan",True
+3,A,Illinois,"Illinois, Michigan","Duke, Illinois, Arkansas, Michigan",True
+4,A,Illinois,"Illinois, Arkansas","St. John's, Illinois, Arkansas, Michigan",True
+5,A,Alabama,"Duke, Alabama","Duke, Iowa, Arkansas, Alabama",True
+6,A,Illinois,"Illinois, Alabama","St. John's, Illinois, Arkansas, Alabama",True
+7,A,Illinois,"Illinois, Arkansas","St. John's, Illinois, Arkansas, Michigan",True
+8,A,Michigan,"Duke, Michigan","Duke, Iowa, Arizona, Michigan",True
+9,A,Iowa,"Iowa, Alabama","St. John's, Iowa, Arkansas, Alabama",True
+10,A,Alabama,"Iowa, Alabama","St. John's, Iowa, Arkansas, Alabama",True
+11,B,Iowa,"Iowa, Purdue","St. John's, Iowa, Purdue, Alabama",False
+12,B,Michigan,"Duke, Michigan","Duke, Houston, Arizona, Michigan",False
+13,B,Michigan St.,"Michigan St., Purdue","Michigan St., Houston, Purdue, Alabama",False
+14,B,Illinois,"Illinois, Tennessee","St. John's, Illinois, Arkansas, Tennessee",False
+15,B,Alabama,"Duke, Alabama","Duke, Houston, Texas, Alabama",False
+16,B,Duke,"Duke, Tennessee","Duke, Houston, Texas, Tennessee",False
+17,B,Duke,"Duke, Alabama","Duke, Iowa, Arizona, Alabama",False
+18,B,Duke,"Duke, Tennessee","Duke, Houston, Arizona, Tennessee",False
+19,B,Arkansas,"Michigan St., Arkansas","Michigan St., Illinois, Arkansas, Tennessee",False
+20,B,Arizona,"Illinois, Arizona","Connecticut, Illinois, Arizona, Iowa St.",False
+21,C,Iowa,"Iowa, Alabama","St. John's, Iowa, Arkansas, Alabama",False
+22,C,Alabama,"Iowa, Alabama","St. John's, Iowa, Arizona, Alabama",False
+23,C,Duke,"Duke, Iowa St.","Duke, Iowa, Arkansas, Iowa St.",False
+24,C,Tennessee,"Connecticut, Tennessee","Connecticut, Illinois, Texas, Tennessee",False
+25,C,Illinois,"Illinois, Arkansas","Duke, Illinois, Arkansas, Tennessee",False
+26,C,Illinois,"Illinois, Iowa St.","Duke, Illinois, Arkansas, Iowa St.",False
+27,C,Duke,"Duke, Iowa St.","Duke, Houston, Arkansas, Iowa St.",False
+28,C,Connecticut,"Connecticut, Iowa St.","Connecticut, Nebraska, Texas, Iowa St.",False
+29,C,Illinois,"Illinois, Arkansas","St. John's, Illinois, Arkansas, Tennessee",False
+30,C,Michigan,"Illinois, Michigan","St. John's, Illinois, Arizona, Michigan",False
+31,D,Illinois,"Illinois, Purdue","St. John's, Illinois, Purdue, Alabama",False
+32,D,Iowa,"Iowa, Arkansas","St. John's, Iowa, Arkansas, Tennessee",False
+33,D,Duke,"Duke, Iowa St.","Duke, Illinois, Arkansas, Iowa St.",False
+34,D,Arizona,"Iowa, Arizona","Connecticut, Iowa, Arizona, Alabama",False
+35,D,Illinois,"Illinois, Alabama","St. John's, Illinois, Arizona, Alabama",False
+36,D,Purdue,"Houston, Purdue","Michigan St., Houston, Purdue, Tennessee",False
+37,D,Alabama,"Duke, Alabama","Duke, Iowa, Arizona, Alabama",False
+38,D,Duke,"Duke, Iowa St.","Duke, Iowa, Texas, Iowa St.",False
+39,D,Michigan,"Illinois, Michigan","St. John's, Illinois, Arizona, Michigan",False
+40,D,Michigan,"Duke, Michigan","Duke, Iowa, Arkansas, Michigan",False

@@ -15,7 +15,9 @@ np.random.seed(SEED)
 
 # Load game-level models
 print("Loading models...")
-with open("game_level_models.pkl", "rb") as f:
+from pathlib import Path
+model_path = Path(__file__).parent.parent / "models" / "game_level_models.pkl"
+with open(model_path, "rb") as f:
     game_level_models = pickle.load(f)
 
 # Load 2026 metrics
@@ -29,6 +31,9 @@ for year in range(2002, 2027):
     except FileNotFoundError:
         pass
 
+from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent / "models"))
 from game_level_integration import get_game_win_probability
 
 # Sweet 16 teams confirmed

@@ -9,7 +9,9 @@ import pandas as pd
 
 def load_game_level_models():
     """Load precomputed game-level models."""
-    with open("game_level_models.pkl", "rb") as f:
+    from pathlib import Path
+    model_path = Path(__file__).parent / "game_level_models.pkl"
+    with open(model_path, "rb") as f:
         return pickle.load(f)
 
 def get_game_win_probability(team_a, team_b, year, round_num, models, team_metrics_dict):

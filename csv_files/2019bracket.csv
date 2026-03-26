@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,Duke,North Dakota St.,85,62,Duke
+2,1,Michigan St.,Bradley,76,65,Michigan St.
+3,1,LSU,Yale,79,74,LSU
+4,1,Virginia Tech,Saint Louis,66,52,Virginia Tech
+5,1,Liberty,Mississippi St.,80,76,Liberty
+6,1,Maryland,Belmont,79,77,Maryland
+7,1,Minnesota,Louisville,86,76,Minnesota
+8,1,UCF,VCU,73,58,UCF
+9,1,Gonzaga,Fairleigh Dickinson,87,49,Gonzaga
+10,1,Michigan,Montana,74,55,Michigan
+11,1,Texas Tech,Northern Kentucky,72,57,Texas Tech
+12,1,Florida St.,Vermont,76,69,Florida St.
+13,1,Murray St.,Marquette,83,64,Murray St.
+14,1,Buffalo,Arizona St.,91,74,Buffalo
+15,1,Florida,Nevada,70,61,Florida
+16,1,Baylor,Syracuse,78,69,Baylor
+17,1,Virginia,Gardner Webb,71,56,Virginia
+18,1,Tennessee,Colgate,77,70,Tennessee
+19,1,Purdue,Old Dominion,61,48,Purdue
+20,1,UC Irvine,Kansas St.,70,64,UC Irvine
+21,1,Oregon,Wisconsin,72,54,Oregon
+22,1,Villanova,Saint Mary's,61,57,Villanova
+23,1,Iowa,Temple,79,72,Iowa
+24,1,Oklahoma,Mississippi,95,72,Oklahoma
+25,1,North Carolina,Iona,88,73,North Carolina
+26,1,Kentucky,Abilene Christian,79,44,Kentucky
+27,1,Houston,Georgia St.,84,55,Houston
+28,1,Kansas,Northeastern,87,53,Kansas
+29,1,Auburn,New Mexico St.,78,77,Auburn
+30,1,Ohio St.,Iowa St.,62,59,Ohio St.
+31,1,Wofford,Seton Hall,84,68,Wofford
+32,1,Washington,Utah St.,78,61,Washington
+33,2,Duke,UCF,77,76,Duke
+34,2,Michigan St.,Minnesota,70,50,Michigan St.
+35,2,LSU,Maryland,69,67,LSU
+36,2,Virginia Tech,Liberty,67,58,Virginia Tech
+37,2,Gonzaga,Baylor,83,71,Gonzaga
+38,2,Michigan,Florida,64,49,Michigan
+39,2,Texas Tech,Buffalo,78,58,Texas Tech
+40,2,Florida St.,Murray St.,90,62,Florida St.
+41,2,Virginia,Oklahoma,63,51,Virginia
+42,2,Tennessee,Iowa,83,77,Tennessee
+43,2,Purdue,Villanova,87,61,Purdue
+44,2,Oregon,UC Irvine,73,54,Oregon
+45,2,North Carolina,Washington,81,59,North Carolina
+46,2,Kentucky,Wofford,62,56,Kentucky
+47,2,Houston,Ohio St.,74,59,Houston
+48,2,Auburn,Kansas,89,75,Auburn
+49,3,Duke,Virginia Tech,75,73,Duke
+50,3,Michigan St.,LSU,80,63,Michigan St.
+51,3,Gonzaga,Florida St.,72,58,Gonzaga
+52,3,Texas Tech,Michigan,63,44,Texas Tech
+53,3,Virginia,Oregon,53,49,Virginia
+54,3,Purdue,Tennessee,99,94,Purdue
+55,3,Auburn,North Carolina,97,80,Auburn
+56,3,Kentucky,Houston,62,58,Kentucky
+57,4,Michigan St.,Duke,68,67,Michigan St.
+58,4,Texas Tech,Gonzaga,75,69,Texas Tech
+59,4,Virginia,Purdue,80,75,Virginia
+60,4,Auburn,Kentucky,77,71,Auburn
+61,5,Virginia,Auburn,63,62,Virginia
+62,5,Texas Tech,Michigan St.,61,51,Texas Tech
+63,6,Virginia,Texas Tech,85,77,Virginia

@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,Louisville,North Carolina A&T,79,48,Louisville
+2,1,Duke,Albany,73,61,Duke
+3,1,Michigan St.,Valparaiso,65,54,Michigan St.
+4,1,Saint Louis,New Mexico St.,64,44,Saint Louis
+5,1,Oregon,Oklahoma St.,68,55,Oregon
+6,1,Memphis,Saint Mary's,54,52,Memphis
+7,1,Creighton,Cincinnati,67,63,Creighton
+8,1,Colorado St.,Missouri,84,72,Colorado St.
+9,1,Gonzaga,Southern,64,58,Gonzaga
+10,1,Ohio St.,Iona,95,70,Ohio St.
+11,1,Harvard,New Mexico,68,62,Harvard
+12,1,La Salle,Kansas St.,63,61,La Salle
+13,1,Mississippi,Wisconsin,57,46,Mississippi
+14,1,Arizona,Belmont,81,64,Arizona
+15,1,Iowa St.,Notre Dame,76,58,Iowa St.
+16,1,Wichita St.,Pittsburgh,73,55,Wichita St.
+17,1,Indiana,James Madison,83,62,Indiana
+18,1,Miami FL,Pacific,78,49,Miami FL
+19,1,Marquette,Davidson,59,58,Marquette
+20,1,Syracuse,Montana,81,34,Syracuse
+21,1,California,UNLV,64,61,California
+22,1,Butler,Bucknell,68,56,Butler
+23,1,Illinois,Colorado,57,49,Illinois
+24,1,Temple,N.C. State,76,72,Temple
+25,1,Kansas,Western Kentucky,64,57,Kansas
+26,1,Florida Gulf Coast,Georgetown,78,68,Florida Gulf Coast
+27,1,Florida,Northwestern St.,79,47,Florida
+28,1,Michigan,South Dakota St.,71,56,Michigan
+29,1,VCU,Akron,88,42,VCU
+30,1,Minnesota,UCLA,83,63,Minnesota
+31,1,San Diego St.,Oklahoma,70,55,San Diego St.
+32,1,North Carolina,Villanova,78,71,North Carolina
+33,2,Louisville,Colorado St.,82,56,Louisville
+34,2,Duke,Creighton,66,50,Duke
+35,2,Michigan St.,Memphis,70,48,Michigan St.
+36,2,Oregon,Saint Louis,74,57,Oregon
+37,2,Wichita St.,Gonzaga,76,70,Wichita St.
+38,2,Ohio St.,Iowa St.,78,75,Ohio St.
+39,2,Arizona,Harvard,74,51,Arizona
+40,2,La Salle,Mississippi,76,74,La Salle
+41,2,Indiana,Temple,58,52,Indiana
+42,2,Miami FL,Illinois,63,59,Miami FL
+43,2,Marquette,Butler,74,72,Marquette
+44,2,Syracuse,California,66,60,Syracuse
+45,2,Kansas,North Carolina,70,58,Kansas
+46,2,Florida Gulf Coast,San Diego St.,81,71,Florida Gulf Coast
+47,2,Florida,Minnesota,78,64,Florida
+48,2,Michigan,VCU,78,53,Michigan
+49,3,Louisville,Oregon,77,69,Louisville
+50,3,Duke,Michigan St.,71,61,Duke
+51,3,Wichita St.,La Salle,72,58,Wichita St.
+52,3,Ohio St.,Arizona,73,70,Ohio St.
+53,3,Syracuse,Indiana,61,50,Syracuse
+54,3,Marquette,Miami FL,71,61,Marquette
+55,3,Michigan,Kansas,87,85,Michigan
+56,3,Florida,Florida Gulf Coast,62,50,Florida
+57,4,Louisville,Duke,85,63,Louisville
+58,4,Wichita St.,Ohio St.,70,66,Wichita St.
+59,4,Syracuse,Marquette,55,39,Syracuse
+60,4,Michigan,Florida,79,59,Michigan
+61,5,Louisville,Wichita St.,72,68,Louisville
+62,5,Michigan,Syracuse,61,56,Michigan
+63,6,Louisville,Michigan,82,76,Louisville

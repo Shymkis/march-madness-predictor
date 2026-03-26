@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,Duke,Winthrop,84,37,Duke
+2,1,Notre Dame,Charlotte,82,63,Notre Dame
+3,1,Indiana,Utah,74,56,Indiana
+4,1,USC,UNC Wilmington,89,93,UNC Wilmington
+5,1,California,Penn,82,75,California
+6,1,Pittsburgh,Central Connecticut,71,54,Pittsburgh
+7,1,Oklahoma St.,Kent St.,61,69,Kent St.
+8,1,Alabama,Florida Atlantic,86,78,Alabama
+9,1,Cincinnati,Boston University,90,52,Cincinnati
+10,1,UCLA,Mississippi,80,58,UCLA
+11,1,Miami FL,Missouri,80,93,Missouri
+12,1,Ohio St.,Davidson,69,64,Ohio St.
+13,1,Gonzaga,Wyoming,66,73,Wyoming
+14,1,Arizona,UC Santa Barbara,86,81,Arizona
+15,1,Xavier,Hawaii,70,58,Xavier
+16,1,Oklahoma,Illinois Chicago,71,63,Oklahoma
+17,1,Maryland,Siena,85,70,Maryland
+18,1,Wisconsin,St. John's,80,70,Wisconsin
+19,1,Marquette,Tulsa,69,71,Tulsa
+20,1,Kentucky,Valparaiso,83,68,Kentucky
+21,1,Texas Tech,Southern Illinois,68,76,Southern Illinois
+22,1,Georgia,Murray St.,85,68,Georgia
+23,1,N.C. State,Michigan St.,69,58,N.C. State
+24,1,Connecticut,Hampton,78,67,Connecticut
+25,1,Kansas,Holy Cross,70,59,Kansas
+26,1,Stanford,Western Kentucky,84,68,Stanford
+27,1,Florida,Creighton,82,83,Creighton
+28,1,Illinois,San Diego St.,93,64,Illinois
+29,1,Texas,Boston College,70,57,Texas
+30,1,Mississippi St.,McNeese St.,70,58,Mississippi St.
+31,1,Wake Forest,Pepperdine,83,74,Wake Forest
+32,1,Oregon,Montana,81,62,Oregon
+33,2,Duke,Notre Dame,84,77,Duke
+34,2,Indiana,UNC Wilmington,76,67,Indiana
+35,2,California,Pittsburgh,50,63,Pittsburgh
+36,2,Kent St.,Alabama,71,58,Kent St.
+37,2,Cincinnati,UCLA,101,105,UCLA
+38,2,Missouri,Ohio St.,83,67,Missouri
+39,2,Wyoming,Arizona,60,68,Arizona
+40,2,Xavier,Oklahoma,65,78,Oklahoma
+41,2,Maryland,Wisconsin,87,57,Maryland
+42,2,Tulsa,Kentucky,82,87,Kentucky
+43,2,Southern Illinois,Georgia,77,75,Southern Illinois
+44,2,N.C. State,Connecticut,74,77,Connecticut
+45,2,Kansas,Stanford,86,63,Kansas
+46,2,Creighton,Illinois,60,72,Illinois
+47,2,Texas,Mississippi St.,68,64,Texas
+48,2,Wake Forest,Oregon,87,92,Oregon
+49,3,Duke,Indiana,73,74,Indiana
+50,3,Pittsburgh,Kent St.,73,78,Kent St.
+51,3,UCLA,Missouri,73,82,Missouri
+52,3,Arizona,Oklahoma,67,88,Oklahoma
+53,3,Maryland,Kentucky,78,68,Maryland
+54,3,Southern Illinois,Connecticut,59,71,Connecticut
+55,3,Kansas,Illinois,73,69,Kansas
+56,3,Texas,Oregon,70,72,Oregon
+57,4,Indiana,Kent St.,81,69,Indiana
+58,4,Missouri,Oklahoma,75,81,Oklahoma
+59,4,Maryland,Connecticut,90,82,Maryland
+60,4,Kansas,Oregon,104,86,Kansas
+61,5,Indiana,Oklahoma,73,64,Indiana
+62,5,Maryland,Kansas,97,88,Maryland
+63,6,Indiana,Maryland,52,64,Maryland

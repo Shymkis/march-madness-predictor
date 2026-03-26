@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,Kentucky,Hampton,79,56,Kentucky
+2,1,Kansas,New Mexico St.,75,56,Kansas
+3,1,Notre Dame,Northeastern,69,65,Notre Dame
+4,1,Maryland,Valparaiso,65,62,Maryland
+5,1,West Virginia,Buffalo,68,62,West Virginia
+6,1,Butler,Texas,56,48,Butler
+7,1,Wichita St.,Indiana,81,76,Wichita St.
+8,1,Cincinnati,Purdue,66,65,Cincinnati
+9,1,Wisconsin,Coastal Carolina,86,72,Wisconsin
+10,1,Arizona,Texas Southern,93,72,Arizona
+11,1,Georgia St.,Baylor,57,56,Georgia St.
+12,1,North Carolina,Harvard,67,65,North Carolina
+13,1,Arkansas,Wofford,56,53,Arkansas
+14,1,Xavier,Mississippi,76,57,Xavier
+15,1,Ohio St.,VCU,75,72,Ohio St.
+16,1,Oregon,Oklahoma St.,79,73,Oregon
+17,1,Villanova,Lafayette,93,52,Villanova
+18,1,Virginia,Belmont,79,67,Virginia
+19,1,Oklahoma,Albany,69,60,Oklahoma
+20,1,Louisville,UC Irvine,57,55,Louisville
+21,1,Northern Iowa,Wyoming,71,54,Northern Iowa
+22,1,Dayton,Providence,66,53,Dayton
+23,1,Michigan St.,Georgia,70,63,Michigan St.
+24,1,N.C. State,LSU,66,65,N.C. State
+25,1,Duke,Robert Morris,85,56,Duke
+26,1,Gonzaga,North Dakota St.,86,76,Gonzaga
+27,1,UAB,Iowa St.,60,59,UAB
+28,1,Georgetown,Eastern Washington,84,74,Georgetown
+29,1,Utah,Stephen F. Austin,57,50,Utah
+30,1,UCLA,SMU,60,59,UCLA
+31,1,Iowa,Davidson,83,52,Iowa
+32,1,San Diego St.,St. John's,76,64,San Diego St.
+33,2,Kentucky,Cincinnati,64,51,Kentucky
+34,2,Wichita St.,Kansas,78,65,Wichita St.
+35,2,Notre Dame,Butler,67,64,Notre Dame
+36,2,West Virginia,Maryland,69,59,West Virginia
+37,2,Wisconsin,Oregon,72,65,Wisconsin
+38,2,Arizona,Ohio St.,73,58,Arizona
+39,2,Xavier,Georgia St.,75,67,Xavier
+40,2,North Carolina,Arkansas,87,78,North Carolina
+41,2,N.C. State,Villanova,71,68,N.C. State
+42,2,Michigan St.,Virginia,60,54,Michigan St.
+43,2,Oklahoma,Dayton,72,66,Oklahoma
+44,2,Louisville,Northern Iowa,66,53,Louisville
+45,2,Duke,San Diego St.,68,49,Duke
+46,2,Gonzaga,Iowa,87,68,Gonzaga
+47,2,UCLA,UAB,92,75,UCLA
+48,2,Utah,Georgetown,75,64,Utah
+49,3,Kentucky,West Virginia,78,39,Kentucky
+50,3,Notre Dame,Wichita St.,81,70,Notre Dame
+51,3,Wisconsin,North Carolina,79,72,Wisconsin
+52,3,Arizona,Xavier,68,60,Arizona
+53,3,Louisville,N.C. State,75,65,Louisville
+54,3,Michigan St.,Oklahoma,62,58,Michigan St.
+55,3,Duke,Utah,63,57,Duke
+56,3,Gonzaga,UCLA,74,62,Gonzaga
+57,4,Kentucky,Notre Dame,68,66,Kentucky
+58,4,Wisconsin,Arizona,85,78,Wisconsin
+59,4,Michigan St.,Louisville,76,70,Michigan St.
+60,4,Duke,Gonzaga,66,52,Duke
+61,5,Duke,Michigan St.,81,61,Duke
+62,5,Wisconsin,Kentucky,71,64,Wisconsin
+63,6,Duke,Wisconsin,68,63,Duke

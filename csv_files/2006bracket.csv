@@ -1,0 +1,64 @@
+ID,Round,Team1,Team2,Team1 Score,Team2 Score,Winner
+1,1,Connecticut,Albany,72,59,Connecticut
+2,1,Kentucky,UAB,69,64,Kentucky
+3,1,Washington,Utah St.,75,61,Washington
+4,1,Illinois,Air Force,78,69,Illinois
+5,1,George Mason,Michigan St.,75,65,George Mason
+6,1,North Carolina,Murray St.,69,65,North Carolina
+7,1,Wichita St.,Seton Hall,86,66,Wichita St.
+8,1,Tennessee,Winthrop,63,61,Tennessee
+9,1,Villanova,Monmouth,58,45,Villanova
+10,1,Arizona,Wisconsin,94,75,Arizona
+11,1,Montana,Nevada,87,79,Montana
+12,1,Boston College,Pacific,88,76,Boston College
+13,1,Milwaukee,Oklahoma,82,74,Milwaukee
+14,1,Florida,South Alabama,76,50,Florida
+15,1,Georgetown,Northern Iowa,54,49,Georgetown
+16,1,Ohio St.,Davidson,70,62,Ohio St.
+17,1,Duke,Southern,70,54,Duke
+18,1,George Washington,UNC Wilmington,88,85,George Washington
+19,1,Texas A&M,Syracuse,66,58,Texas A&M
+20,1,LSU,Iona,80,64,LSU
+21,1,West Virginia,Southern Illinois,64,46,West Virginia
+22,1,Northwestern St.,Iowa,64,63,Northwestern St.
+23,1,N.C. State,California,58,52,N.C. State
+24,1,Texas,Penn,60,52,Texas
+25,1,Memphis,Oral Roberts,94,78,Memphis
+26,1,Bucknell,Arkansas,59,55,Bucknell
+27,1,Pittsburgh,Kent St.,79,64,Pittsburgh
+28,1,Bradley,Kansas,77,73,Bradley
+29,1,Indiana,San Diego St.,87,83,Indiana
+30,1,Gonzaga,Xavier,79,75,Gonzaga
+31,1,Alabama,Marquette,90,85,Alabama
+32,1,UCLA,Belmont,78,44,UCLA
+33,2,Connecticut,Kentucky,87,83,Connecticut
+34,2,Washington,Illinois,67,64,Washington
+35,2,George Mason,North Carolina,65,60,George Mason
+36,2,Wichita St.,Tennessee,80,73,Wichita St.
+37,2,Villanova,Arizona,82,78,Villanova
+38,2,Boston College,Montana,69,56,Boston College
+39,2,Florida,Milwaukee,82,60,Florida
+40,2,Georgetown,Ohio St.,70,52,Georgetown
+41,2,Duke,George Washington,74,61,Duke
+42,2,LSU,Texas A&M,58,57,LSU
+43,2,West Virginia,Northwestern St.,67,54,West Virginia
+44,2,Texas,N.C. State,75,54,Texas
+45,2,Memphis,Bucknell,72,56,Memphis
+46,2,Bradley,Pittsburgh,72,66,Bradley
+47,2,Gonzaga,Indiana,90,80,Gonzaga
+48,2,UCLA,Alabama,62,59,UCLA
+49,3,Connecticut,Washington,98,92,Connecticut
+50,3,George Mason,Wichita St.,63,55,George Mason
+51,3,Villanova,Boston College,60,59,Villanova
+52,3,Florida,Georgetown,57,53,Florida
+53,3,LSU,Duke,62,54,LSU
+54,3,Texas,West Virginia,74,71,Texas
+55,3,Memphis,Bradley,80,64,Memphis
+56,3,UCLA,Gonzaga,73,71,UCLA
+57,4,George Mason,Connecticut,86,84,George Mason
+58,4,Florida,Villanova,75,62,Florida
+59,4,LSU,Texas,70,60,LSU
+60,4,UCLA,Memphis,50,45,UCLA
+61,5,UCLA,LSU,59,45,UCLA
+62,5,Florida,George Mason,73,58,Florida
+63,6,Florida,UCLA,73,57,Florida
