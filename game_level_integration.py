@@ -5,6 +5,7 @@ To be used in analyze_data.ipynb
 
 import pickle
 import numpy as np
+import pandas as pd
 
 def load_game_level_models():
     """Load precomputed game-level models."""
@@ -86,11 +87,17 @@ def get_game_win_probability(team_a, team_b, year, round_num, models, team_metri
     total = rf_weight + gb_weight
     prob_better_wins = (rf_prob * rf_weight + gb_prob * gb_weight) / total
     
-    # Determine which team is "better" (lower seed)
+    # Determine which team is "better" (lower seed, or higher NetRtg if tied)
     seed_a = float(t_a["Seed"]) if "Seed" in team_metrics.columns else 8
     seed_b = float(t_b["Seed"]) if "Seed" in team_metrics.columns else 8
-    
-    team_a_is_better = seed_a < seed_b
+
+    if seed_a != seed_b:
+        team_a_is_better = seed_a < seed_b
+    else:
+        # Tiebreaker: higher NetRtg = better team
+        netrtg_a = float(t_a["NetRtg"]) if "NetRtg" in team_metrics.columns else 0
+        netrtg_b = float(t_b["NetRtg"]) if "NetRtg" in team_metrics.columns else 0
+        team_a_is_better = netrtg_a >= netrtg_b
     
     if team_a_is_better:
         return prob_better_wins, 1 - prob_better_wins
